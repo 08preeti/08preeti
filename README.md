@@ -9,7 +9,7 @@
 
 </div>
 
-<!-- ================= ABOUT ME ================= -->
+---
 
 ## 👩🏻‍💻 About Me
 
@@ -19,42 +19,47 @@
 
 ```javascript
 const preeti = {
-    name: "Preeti Chikkali",
-    role: "Full Stack Developer",
-    education: "B.Tech CSE",
+  name: "Preeti Chikkali",
+  role: "Full Stack Developer",
+  education: "B.Tech CSE",
 
-    interests: [
-        "Web Development",
-        "Artificial Intelligence",
-        "Cloud Computing",
-        "System Design"
-    ],
+  interests: [
+    "Web Development",
+    "Artificial Intelligence",
+    "Cloud Computing",
+    "System Design"
+  ],
 
-    currentlyLearning: [
-        "Python",
-        "AWS",
-        "DevOps",
-        "System Design"
-    ],
+  currentlyLearning: [
+    "Python",
+    "AWS",
+    "DevOps",
+    "System Design"
+  ],
 
-    goal: "Building impactful
-           software solutions"
+  goal: "Building impactful software solutions"
 };
 ```
 
-> "Great things are built one line of code at a time."
+**A little about me:**
+
+- 🎓 Final-year Computer Science Engineering student.
+- 💻 Interested in Full Stack Development.
+- 🚀 Building practical web applications.
+- 🤖 Exploring AI-powered solutions.
+- 🌱 Learning Cloud Computing and DevOps.
 
 </td>
 
 <td width="45%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation"/>
 
 </td>
 </tr>
 </table>
 
-<!-- ================= CONNECT ================= -->
+---
 
 ## 🌐 Connect With Me
 
@@ -70,7 +75,7 @@ const preeti = {
 
 </div>
 
-<!-- ================= TECH STACK ================= -->
+---
 
 ## 🛠️ Tech Stack
 
@@ -78,27 +83,27 @@ const preeti = {
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 ### Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws"/>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </div>
 
-<!-- ================= PROJECTS ================= -->
+---
 
 ## 🚀 Featured Projects
 
@@ -108,7 +113,7 @@ const preeti = {
 
 ### 🤖 AI Local Job Finder
 
-A platform connecting daily workers with local employment opportunities.
+A platform designed to connect daily workers with local employment opportunities.
 
 **Focus:**
 - Full Stack Development
@@ -116,6 +121,7 @@ A platform connecting daily workers with local employment opportunities.
 - MongoDB
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📚 StudyGenie
@@ -144,6 +150,7 @@ An interactive web application for showcasing digital artwork.
 - Web Technologies
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🌸 The Nari Project
@@ -159,7 +166,7 @@ A full-stack application with API integration and cloud deployment work.
 </tr>
 </table>
 
-<!-- ================= GITHUB ANALYTICS ================= -->
+---
 
 ## 📊 GitHub Analytics
 
@@ -175,27 +182,31 @@ A full-stack application with API integration and cloud deployment work.
 
 </div>
 
-<!-- ================= CONTRIBUTIONS ================= -->
+---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=08preeti&theme=tokyo-night&hide_border=true&area=true"/>
+**Explore my coding journey and daily contributions on GitHub.**
+
+<a href="https://github.com/08preeti?tab=overview&from=2026-01-01&to=2026-12-31">
+<img src="https://img.shields.io/badge/View%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View contributions"/>
+</a>
 
 </div>
 
-<!-- ================= TROPHIES ================= -->
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=08preeti&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="./trophy.svg" width="100%" alt="Preeti's GitHub Trophies"/>
 
 </div>
 
-<!-- ================= CURRENTLY LEARNING ================= -->
+---
 
 ## 🌱 Currently Exploring
 
@@ -208,18 +219,22 @@ A full-stack application with API integration and cloud deployment work.
 
 </div>
 
-<!-- ================= FOOTER ================= -->
+---
+
+## 💜 A Little Motivation
 
 <div align="center">
+
+*"Great things are built one line of code at a time."*
+
+### Keep Learning. Keep Building. Keep Growing.
 
 <img src="https://komarev.com/ghpvc/?username=08preeti&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
 
 <br/><br/>
 
-### 💜 Thanks for visiting my profile!
-
-**Keep Learning. Keep Building. Keep Growing.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6546a5,50:20204a,100:09090f&height=110&section=footer"/>
+Thanks for visiting my profile! 💜
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6546a5,50:20204a,100:09090f&height=110&section=footer"/>
